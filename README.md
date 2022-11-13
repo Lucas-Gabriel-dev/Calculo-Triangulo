@@ -19,7 +19,7 @@ Logo abaixo, irei descrever quais foram as ferramentas utilizadas para o desenvo
 Para todo o desenvolivmento foi o utilizado o .NET 6, que oferece diversos recursos e pacotes para o desenvolvimento.<br> 
 
 ### Classlib
-Para construir a função que faz o cálculo foi utilizado o pacote "Biblioteca de Classes (classlib)".
+Para construir a função que faz o cálculo do triângulo foi utilizado o pacote "Biblioteca de Classes (classlib)".
 
 ### MSTest
 Para realização do teste unitário foi criado um projeto com o pacote "MSTest Test Project", oferecido pelo .NET.
