@@ -1,12 +1,12 @@
-# Calculo-Triangulo
+# Cálculo Triângulo
 ![version]( https://img.shields.io/badge/version-1.0.0-Green)
 
 ## Sobre
 Projeto desenvolvido para realizar cálculos entre matrizes de um triangulo. O cálculo tem a seguinte formula: <br>
-///    6 <br>
-///   3 5 <br>
-///  9 7 1 <br>
-/// 4 6 8 4 <br>
+///////6 <br>
+//////3 5 <br>
+/////9 7 1 <br>
+////4 6 8 4 <br>
 /// Um elemento somente pode ser somado com um dos dois elementos da próxima linha. Como o elemento 5 na Linha 2, que pode ser somado com 7 e 1, mas não com o 9.<br>
 /// Neste triangulo o total máximo é 6 + 5 + 7 + 8 = 26
 <br>
