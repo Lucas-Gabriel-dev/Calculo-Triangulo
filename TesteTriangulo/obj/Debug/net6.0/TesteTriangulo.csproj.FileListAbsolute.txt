@@ -1,0 +1,12 @@
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/bin/Debug/net6.0/TesteTriangulo.deps.json
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/bin/Debug/net6.0/TesteTriangulo.dll
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/bin/Debug/net6.0/TesteTriangulo.pdb
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.csproj.AssemblyReference.cache
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.AssemblyInfoInputs.cache
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.AssemblyInfo.cs
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.dll
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/refint/TesteTriangulo.dll
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/TesteTriangulo.pdb
+/home/lucas/Documentos/TesteTriangulo/TesteTriangulo/obj/Debug/net6.0/ref/TesteTriangulo.dll
